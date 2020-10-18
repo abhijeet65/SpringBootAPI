@@ -22,19 +22,19 @@ sample response:
         "id": 3,
         "name": "Saraf",
         "dept": "ISE",
-        "salary": 3121.0
+        "salary": 70121.0
     },
     {
         "id": 4,
         "name": "Saraf",
         "dept": "ISE",
-        "salary": 9212.0
+        "salary": 90212.0
     },
     {
         "id": 5,
         "name": "sahil",
         "dept": "IT",
-        "salary": 9212.0
+        "salary": 39212.0
     }
 ]  
 
